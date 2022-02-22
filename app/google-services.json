@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145144501189",
+    "project_id": "fir-povtorenie",
+    "storage_bucket": "fir-povtorenie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145144501189:android:62176b9971d8adf2d0b1ac",
+        "android_client_info": {
+          "package_name": "com.neznaika_77.firebase_povtorenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145144501189-mscf1pu57rkc0ferbhvkac9a6e2dksut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprHsM5WSv1aWb6mrnrnCf2dCIUR_z82A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145144501189-mscf1pu57rkc0ferbhvkac9a6e2dksut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
